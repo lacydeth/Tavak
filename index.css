@@ -1,0 +1,81 @@
+* {
+    font-family: Arial;
+}
+table {
+    width: 60%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 6px;
+    border-spacing: 4px;
+}
+caption {
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 25%;
+    margin: 12px auto 100px;
+    box-shadow: gray 15px 7px;
+}
+th {
+    border: 1px solid black;
+    text-align: left;
+    border-radius: 6px;
+    box-shadow: black 2px 1px;
+    width: 100px;
+    height: 65px;
+    font-weight: normal;
+    background: #D1D1D1;
+}
+td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: black 2px 1px;
+    width: 100px;
+    height: 50px;
+    background: #E9E9E9;
+}
+span {
+    color: red;
+}
+#nev {
+    background: #A9A9A9;
+}
+#nev2 {
+    background: #A1BAB7;
+}
+#nev3 {
+    background: #ACCAC7;
+}
+.a1 {
+    background-image: url(Images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a2 {
+    background-image: url(Images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a3 {
+    background-image: url(Images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a4 {
+    background-image: url(Images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a5 {
+    background-image: url(Images/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a6 {
+    background-image: url(Images/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
